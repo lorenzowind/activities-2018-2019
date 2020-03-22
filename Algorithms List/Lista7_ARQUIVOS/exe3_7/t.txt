@@ -1,0 +1,12 @@
+Nome: lorenzo
+Nota 1: 6.70
+Nota 2: 3.40
+Media: 5.05
+Nome: kevin
+Nota 1: 4.50
+Nota 2: 3.40
+Media: 3.95
+Nome: was
+Nota 1: 7.50
+Nota 2: 3.10
+Media: 5.30

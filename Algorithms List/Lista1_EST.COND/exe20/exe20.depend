@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520286055 source:c:\users\lorenzo\desktop\algoritmos\lista de algoritmos\algoritmos em c\exe20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

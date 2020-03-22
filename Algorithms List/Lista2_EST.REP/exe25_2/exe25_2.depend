@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1521924869 source:c:\users\lorenzo\documents\algoritmos\lista de algoritmos\lista2\algoritmos em c\exe25_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520299620 source:c:\users\lorenzo\desktop\algoritmos\lista de algoritmos\algoritmos em c\exe34\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

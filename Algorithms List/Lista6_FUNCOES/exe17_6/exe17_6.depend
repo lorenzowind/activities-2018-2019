@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533500790 source:c:\users\lorenzo\documents\programação\lista de algoritmos\lista6_funcoes\exe17_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

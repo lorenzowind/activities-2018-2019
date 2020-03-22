@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539636202 source:c:\users\lorenzo windmoller\documents\programação\lista de algoritmos\lista7_arquivos\exe14_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

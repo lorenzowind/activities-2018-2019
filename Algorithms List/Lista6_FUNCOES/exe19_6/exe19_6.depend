@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1533591229 source:c:\users\lorenzo\documents\programação\lista de algoritmos\lista6_funcoes\exe19_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
